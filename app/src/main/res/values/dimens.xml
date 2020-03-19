@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="c_default">12dp</dimen>
+    <dimen name="checkBoxTextSize">16sp</dimen>
+    <dimen name="contentMargin">16dp</dimen>
+    <dimen name="multiLine">300dp</dimen>
+    <dimen name="imageSize">100dp</dimen>
+</resources>
