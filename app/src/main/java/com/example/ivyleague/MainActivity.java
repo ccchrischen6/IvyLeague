@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void jump(){
-        Intent intent = new Intent(this, RecycleActivity.class);
+        Intent intent = new Intent(this, RecyclerActivity.class);
         startActivity(intent);
 
     }

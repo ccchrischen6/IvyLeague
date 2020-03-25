@@ -17,4 +17,9 @@ public class Universities {
     public static University get(int n){
         return universities.get(n);
     }
+
+    public static List<University> getList(){
+        return universities;
+    }
+
 }

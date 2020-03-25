@@ -5,4 +5,6 @@
     <dimen name="contentMargin">16dp</dimen>
     <dimen name="multiLine">300dp</dimen>
     <dimen name="imageSize">100dp</dimen>
+    <dimen name="titleFontSize">20dp</dimen>
+    <dimen name="contentFontSize">12dp</dimen>
 </resources>
